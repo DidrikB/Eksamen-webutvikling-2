@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "mRgUOWZ5nfecU4Qn4tznJU9nz0vE4Yj6Pgb1gQzpEKU=",
+  "Source": "MilitaryApi",
+  "BasePath": "_content/MilitaryApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MilitaryApi\\wwwroot",
+      "Source": "MilitaryApi",
+      "ContentRoot": "C:\\Users\\Bruker\\Desktop\\Eksamen Webutvilking s22\\MilitaryApi\\wwwroot\\",
+      "BasePath": "_content/MilitaryApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Bruker\\Desktop\\Eksamen Webutvilking s22\\MilitaryApi\\wwwroot\\index.html",
+      "SourceId": "MilitaryApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Bruker\\Desktop\\Eksamen Webutvilking s22\\MilitaryApi\\wwwroot\\",
+      "BasePath": "_content/MilitaryApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
